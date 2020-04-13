@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79aed4e-e6e4-4482-bbdb-07557f8f66a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javalib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MazeSolver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EdgeComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MazeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MazeWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EdgeComp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/EdgeComp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MazeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/MazeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MazeWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/MazeWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mazeSolver/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +50,26 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sywyr\IdeaProjects\MazeSolver\src\mazeSolver" />
+      <recent name="C:\Users\sywyr\IdeaProjects\MazeSolver\src" />
       <recent name="C:\Users\sywyr\IdeaProjects\MazeSolver" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="mazeSolver.Main" />
       <module name="MazeSolver" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,6 +85,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586735803216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586735803216" />
     <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1585887596370">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -94,6 +97,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2710" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1585887470660" />
+    <state x="756" y="404" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586735655106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="404" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586735655106" />
     <state x="2634" y="235" key="DetectedRootsChooserDialog" timestamp="1585886979724">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -106,6 +113,22 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1585888298881" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586735940423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586735940423" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586735940423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586735940423" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586735940423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586735940423" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586735940423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586735940423" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1585888373519">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

@@ -1,3 +1,5 @@
+package mazeSolver;
+
 import javalib.impworld.World;
 import javalib.impworld.WorldScene;
 import javalib.worldimages.FontStyle;
@@ -15,8 +17,8 @@ public class MazeWorld extends World {
     ArrayList<ArrayList<Node>> nodes = initNodes();
 
     // world size in nodes
-    static int WORLDHEIGHT = 15;
-    static int WORLDWIDTH  = 25;
+    static int WORLDHEIGHT = 30;
+    static int WORLDWIDTH  = 50;
 
     // sizes of edges in pixels
     static int EDGEHEIGHT = 600 / WORLDHEIGHT;

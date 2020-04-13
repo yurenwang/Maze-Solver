@@ -1,3 +1,5 @@
+package mazeSolver;
+
 import javalib.worldimages.OutlineMode;
 import javalib.worldimages.RectangleImage;
 import javalib.worldimages.WorldImage;

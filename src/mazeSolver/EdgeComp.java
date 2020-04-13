@@ -1,3 +1,5 @@
+package mazeSolver;
+
 import java.util.Comparator;
 
 //to compare two edges by their edge weights

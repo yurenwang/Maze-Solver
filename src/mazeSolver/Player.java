@@ -1,3 +1,5 @@
+package mazeSolver;
+
 import javalib.worldimages.CircleImage;
 import javalib.worldimages.OutlineMode;
 import javalib.worldimages.OverlayImage;
